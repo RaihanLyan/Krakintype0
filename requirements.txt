@@ -1,0 +1,7 @@
+chatterbot==1.0.5
+flask==3.0.0
+pynput==1.7.6
+tldextract==3.5.0
+python-Levenshtein==0.21.3
+scapy==2.5.0
+psutil==5.9.7
